@@ -1,2 +1,3 @@
 # Tomato_Clock
-![image](https://user-images.githubusercontent.com/20288852/148171477-771c35ca-d832-48fe-bb80-3bca95909970.png)
+<img width="296" alt="1641364600(1)" src="https://user-images.githubusercontent.com/20288852/148171582-acbd647f-679f-42c1-b748-57246eaa9003.png">
+
